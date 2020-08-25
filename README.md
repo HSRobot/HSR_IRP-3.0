@@ -1,3 +1,4 @@
+
 # 1.简介
    此仓库为HIROP的软件平台，包含华数机器人部分机械臂的URDF模型、moveit配置、gazebo配置、ROS-I驱动包、夹爪驱动包、rviz控制面板、抓取Demo、抓取仿真环境、基础Demo等示例开发包。
 
@@ -110,3 +111,5 @@
    $ roslaunch hsr_bringup pick_gui.launch
    ```
 
+=======
+# hsr_irp-3.0
